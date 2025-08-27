@@ -1,0 +1,5 @@
+flask
+qrcode
+opencv-python
+pyzbar
+openpyxl
